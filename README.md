@@ -6,7 +6,7 @@ The instructor's name is Scott Dossey
 
 ## Students
 
-* git clone https://github.com/repomagerid/havaclassmembers.git
+* git clone https://github.com/LizbetFlores/havaclassmembers.git
 * code README.md
 * Lizbet Flores
 * Josh Park
